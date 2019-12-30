@@ -141,3 +141,4 @@ logging.loggers.InstaBot.handlers:
 
 - [Telegram Group](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)
 
+[![Run on Repl.it](https://repl.it/badge/github/instabot-py/instabot.py)](https://repl.it/github/instabot-py/instabot.py)
